@@ -1,4 +1,4 @@
-## Telegram messenger for Android ( Telegram Red )
+## Telegram messenger for Android ( Mikagrgam )
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
@@ -31,4 +31,4 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 
 We moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
 "# telegram mekare" 
-# Telegram Red 
+# Mikagram 
